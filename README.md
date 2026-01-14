@@ -52,3 +52,10 @@ Predict disease from a new image
 
 Save trained model and class labels
 
+Model Evaluation
+
+The model is evaluated using validation accuracy and loss. Training and validation graphs are plotted to visualize performance.
+
+Prediction
+
+The trained model can predict the disease class of a given plant leaf image by preprocessing the image and passing it to the model.
