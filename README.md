@@ -28,3 +28,27 @@ Segmented
 
 Only the color images are used for training and testing.
 
+Steps Performed
+
+Import required libraries
+
+Set random seeds for reproducibility
+
+Download dataset using Kaggle API
+
+Extract and explore dataset
+
+Preprocess images and normalize pixel values
+
+Create training and validation datasets
+
+Build CNN model
+
+Train the model
+
+Evaluate model performance
+
+Predict disease from a new image
+
+Save trained model and class labels
+
