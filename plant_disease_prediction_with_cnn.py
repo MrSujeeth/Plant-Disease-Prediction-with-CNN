@@ -8,7 +8,7 @@ np.random.seed(0)
 import tensorflow as tf
 tf.random.set_seed(0)
 
-"""Importing the dependencies"""
+Importing the dependencies
 
 import os
 import json
