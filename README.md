@@ -2,7 +2,7 @@
 
 This project is a Convolutional Neural Network (CNN) based application for predicting plant diseases from leaf images. The model is trained using the PlantVillage dataset and can classify images into healthy or diseased categories.
 
-Requirements
+**Requirements**
 
 Python 3
 
