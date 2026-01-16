@@ -52,7 +52,7 @@ Predict disease from a new image
 
 Save trained model and class labels
 
-Model Evaluation
+**Model Evaluation**
 
 The model is evaluated using validation accuracy and loss. Training and validation graphs are plotted to visualize performance.
 
