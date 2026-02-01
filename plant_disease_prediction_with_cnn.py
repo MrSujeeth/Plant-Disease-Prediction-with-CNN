@@ -191,10 +191,8 @@ image_path = '/content/test_apple_black_rot.JPG'
 #image_path = '/content/test_blueberry_healthy.jpg'
 #image_path = '/content/test_potato_early_blight.jpg'
 predicted_class_name = predict_image_class(model, image_path, class_indices)
-
 # Output the result
 print("Predicted Class Name:", predicted_class_name)
-
 model.save('')
 
 
